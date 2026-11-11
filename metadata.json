@@ -1,0 +1,7 @@
+{
+  "name": "HR Management Dashboard",
+  "description": "Complete HR Management Dashboard with employee directory, departments, salary calculations, attendance tracking, and comprehensive reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
